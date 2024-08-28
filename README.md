@@ -1,6 +1,6 @@
 # Fine Tuning BERT-BASE for Toxic Comments Classification (MultiLabel Classification)
 In this project, we used the BERT-base-case version for the toxic comment classification task, which is a multilabel task. 
-Transformer library from Hugging Face ![image](https://github.com/user-attachments/assets/fd565975-ba72-47de-8bf2-ffb2c9be64ba) (a hub of pre-trained models specifically for NLP tasks) is used to load the BERT pre-trained tokenizer and BERT pre-trained model.
+Transformer library from Hugging Face ![image](https://github.com/user-attachments/assets/33a9adb1-5cc9-49f1-a3b9-d0c046048de1) (a hub of pre-trained models specifically for NLP tasks) is used to load the BERT pre-trained tokenizer and BERT pre-trained model.
 
 # How to use the code? 
 The code consists of the following modules:
