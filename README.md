@@ -16,5 +16,5 @@ The following libraries are required to be installed on your system before going
    For more details please visit ..... https://huggingface.co/models?library=transformers
 3. **Pytroch:** pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 (GPU), pip3 install torch torchvision torchaudio (CPU)
    For more details please visit ..... https://pytorch.org/get-started/locally/
-5. **Pytorch Lightning:** pip install lightning
+5. **Pytorch Lightning:** install pytorch-lightning 
    For more details please visit ...... https://lightning.ai/docs/pytorch/stable/starter/installation.html
